@@ -10,6 +10,18 @@
         "update_date": "2024/12/6",
         "tag": "示例"
     },
+    },
+    "LyricsIslandCW": {
+        "name": "LyricsIsland",
+        "description": "在主界面上显示来自音乐软件的歌词。",
+        "version": "1.0.0",
+        "plugin_ver": "1",
+        "author": "LaoShui,jiangyin14",
+        "url": "https://github.com/jiangyin14/LyricsIslandCW",
+        "branch": "master",
+        "update_date": "2025/01/21",
+        "tag": "实用 | 工具 | 小组件"
+    }
     "cw-ship-plugin": {
         "name": "舟山船班信息展示",
         "description": "这是一个用于展示舟山大岙码头船班信息的插件。",
