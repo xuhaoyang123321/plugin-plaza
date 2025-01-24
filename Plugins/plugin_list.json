@@ -115,11 +115,9 @@
         "version": "1.0.0",
         "plugin_ver": 1,
         "author": "classisland",
-        "settings": false,
         "url": "https://github.com/ClassIsland/classwidgets-plugin-classisland",
         "branch": "main",
         "update_date": "2025/01/23",
-        "tag": "工具",
+        "tag": "工具"
     }
-
 }
