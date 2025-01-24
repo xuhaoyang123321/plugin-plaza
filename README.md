@@ -3,7 +3,8 @@
 
 ## 如何使用
 > [!TIP]
-> 教程正在制作中，敬请期待！
+> Class Widgets 已有官方教程！
+> 插件开发教程详见[此处](https://cw.rinlit.cn/docs-dev)。
 
 ## 发布插件
 > [!Note]
