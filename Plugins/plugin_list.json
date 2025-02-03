@@ -136,12 +136,12 @@
     "cw-ScoreRate-Analyzer-plugin": {
         "name": "班级作业得分率显示插件",
         "description": "一个用于显示近七天年级段及各班作业得分率的插件。",
-        "version": "1.0.0",
+        "version": "1.1.1",
         "plugin_ver": "1",
         "author": "LaoShui",
         "url": "https://github.com/laoshuikaixue/cw-ScoreRate-Analyzer-plugin",
         "branch": "main",
-        "update_date": "2025/02/01",
+        "update_date": "2025/02/03",
         "tag": "实用 | 信息 | 工具 | 班级环境 | 小组件"
     }
 }
