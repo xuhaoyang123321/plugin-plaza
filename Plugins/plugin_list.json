@@ -147,7 +147,7 @@
     "cw-range-name-plugin": {
         "name": "随机点名",
         "description": "为Class Widgets 带上随机点名功能",
-        "version": "1.5",
+        "version": "1.6",
         "plugin_ver": 1,
         "author": "neko_lfj | RinLit",
         "url": "https://github.com/nekolfj/cw-range-name-plugin",
