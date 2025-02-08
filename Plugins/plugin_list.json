@@ -154,5 +154,17 @@
         "branch": "main",
         "update_date": "2024/2/5",
         "tag": "实用 | 工具"
+        
     }
+        "cw-Check-plugin": {
+        "name": "签到",
+        "description": "classwidget签到",
+        "version": "1.1.0",
+        "plugin_ver": 1,
+        "author": "cheems",
+        "url": "https://github.com/xuhaoyang123321/CW-Check",
+        "branch": "main",
+        "update_date": "2025/02/08",
+        "tag": "实用 "
+    },
 }
