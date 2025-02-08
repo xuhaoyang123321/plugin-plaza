@@ -155,4 +155,15 @@
         "update_date": "2024/2/5",
         "tag": "实用 | 工具"
     }
+    "cw-check-plugin": {
+        "name": "签到",
+        "description": "为Class Widgets 带上签到功能",
+        "version": "1.0",
+        "plugin_ver": 1,
+        "author": "Cheems | RinLit",
+        "url": "https://github.com/xuhaoyang123321/CW-Check",
+        "branch": "main",
+        "update_date": "2024/2/8",
+        "tag": "实用 | 工具"
+    }
 }
