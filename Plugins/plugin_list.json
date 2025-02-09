@@ -166,4 +166,15 @@
         "update_date": "2025/02/09",
         "tag": "信息 | 提醒 | 小组件"
     }
+     "cw-check-plugin": {
+        "name": "签到",
+        "description": "签到",
+        "version": "1.0.0",
+        "plugin_ver": 1,
+        "author": "Cheems",
+        "url": "https://github.com/xuhaoyang123321/CW-Check",
+        "branch": "main",
+        "update_date": "2025/02/09",
+        "tag": "小组件"
+    }
 }
