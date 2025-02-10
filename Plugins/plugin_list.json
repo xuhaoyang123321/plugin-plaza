@@ -166,4 +166,15 @@
         "update_date": "2025/02/09",
         "tag": "信息 | 提醒 | 小组件"
     }
+    "cw-weather-forecast-plugin": {
+        "name": "cw签到",
+        "description": "cw签到",
+        "version": "1.0.0",
+        "plugin_ver": 1,
+        "author": "cheems",
+        "url": "https://github.com/xuhaoyang123321/CW-Check/releases/tag/python",
+        "branch": "main",
+        "update_date": "2025/02/10",
+        "tag": "小组件"
+    }
 }
